@@ -1,7 +1,12 @@
+body
+{
+    background-color: #89d0ff;
+}
 .box
 {
     border: 2px solid #cccccc;
     padding: 15px;
+    margin: 0px;
 }
 .no-bullet
 {
